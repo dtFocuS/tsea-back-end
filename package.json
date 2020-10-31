@@ -1,0 +1,23 @@
+{
+  "name": "tsea-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtFocuS/tsea-back-end.git"
+  },
+  "author": "Danny Tseng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtFocuS/tsea-back-end/issues"
+  },
+  "homepage": "https://github.com/dtFocuS/tsea-back-end#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
